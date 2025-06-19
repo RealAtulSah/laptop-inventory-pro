@@ -1,0 +1,5 @@
+{
+  "name": "Laptop Inventory Pro",
+  "description": "A web application to manage laptop inventory, track sales, and analyze performance. It allows users to add new and used laptops, record sales, and view dashboard summaries and sales analytics.",
+  "requestFramePermissions": []
+}
